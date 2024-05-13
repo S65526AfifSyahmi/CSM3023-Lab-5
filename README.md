@@ -1,2 +1,7 @@
-# CSM3023-Lab-5
-Lab 4 - JSP : JavaBeans &amp; Java Standard Tag Library (JSTL)
+# CSM3023 Lab 5
+
+## Name: Ahmad Afif Syahmi bin Ahmad Rozali
+## Matric: S65526
+## Lab: 5
+## Date: 08.05.2024
+## Demonstrator: Sir. Mohd Arizal Shamsil bin Mat Rifin
